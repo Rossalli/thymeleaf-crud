@@ -17,7 +17,7 @@ Lombok
 
 ## Executando o projeto
 
- 
+ mvn spring-boot:run
 
 
 
